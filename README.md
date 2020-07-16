@@ -51,10 +51,7 @@ class BhanukaManesha : MonashHonoursStudent {
 ```
 
 <p align="center"> 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  </p>
-<p align="center"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b>😊</em>
 </p>
 <p align="center">
   <i> Let's connect and chat! :incoming_envelope: </i>

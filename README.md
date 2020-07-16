@@ -70,7 +70,7 @@ class BhanukaManesha : MonashHonoursStudent {
   <img alt="Coverage" src="https://img.shields.io/github/followers/bhanukaManesha?label=Follow&style=social" width="130">
   </a>
   &nbsp; &nbsp;
-  <a href="http://hits.dwyl.com/bhanukaManesha/bhanukaManesha">
-  <img alt="Coverage" src="http://hits.dwyl.com/bhanukaManesha/bhanukaManesha.svg" width="115">
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge">
+  <img alt="Coverage" src="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge" width="105">
   </a>
 </p>

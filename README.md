@@ -72,8 +72,8 @@ class BhanukaManesha : MonashHonoursStudent {
   <a href="https://img.shields.io/github/followers/bhanukaManesha?label=Follow&style=social">
   <img alt="Coverage" src="https://img.shields.io/github/followers/bhanukaManesha?label=Follow&style=social" width="130">
   </a>
-  &nbsp; &nbsp;
+<!--   &nbsp; &nbsp;
   <a href="http://hits.dwyl.com/bhanukaManesha/bhanukaManesha">
   <img alt="Coverage" src="http://hits.dwyl.com/bhanukaManesha/bhanukaManesha.svg" width="115">
-  </a>
+  </a> -->
 </p>

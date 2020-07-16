@@ -4,7 +4,7 @@
   <samp>
     I'm Bhanuka Gamage :wave:
     <br><br>
-    I am a honours :mortar_board: student @ Monash University
+    I am a computer science honours :mortar_board: student @ Monash University
     <br><br>
     I work part-time as a Machine Learning :robot: developer @ <a href="https://github.com/map711">Map72</a>!
     <br><br>
@@ -44,8 +44,8 @@ class BhanukaManesha : MonashHonoursStudent {
         misc: ["Firebase", "Socket.IO", "ARKit"]
     ]
     
-  var architecture: ["REST Architecture", "Progressive web applications", "Single page applications", "MVVM", "MVC"]
-  var funFact: "30% of developers’ work time goes for surfing the source code"
+  var architecture = ["REST Architecture", "Progressive web applications", "Single page applications", "MVVM", "MVC"]
+  var funFact = "30% of developers’ work time goes for surfing the source code"
 
 }
 ```

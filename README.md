@@ -61,16 +61,16 @@ class BhanukaManesha : MonashHonoursStudent {
   <img alt="Coverage" src="https://img.shields.io/badge/-BhanukaGamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanuka-gamage/" width="170">
   </a>
 </p>
-
+<hr>
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:octocat:
   <br><br>
  &nbsp; &nbsp;
   <a href="https://img.shields.io/github/followers/bhanukaManesha?label=Follow&style=social">
-  <img alt="Coverage" src="https://img.shields.io/github/followers/bhanukaManesha?label=Follow&style=social" width="130">
+  <img alt="Coverage" src="https://img.shields.io/github/followers/bhanukaManesha?label=Follow&style=social" height="25">
   </a>
   &nbsp; &nbsp;
   <a href="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge">
-  <img alt="Coverage" src="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge" width="100">
+  <img alt="Coverage" src="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge" height="25">
   </a>
 </p>

@@ -71,6 +71,6 @@ class BhanukaManesha : MonashHonoursStudent {
   </a>
   &nbsp; &nbsp;
   <a href="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge">
-  <img alt="Coverage" src="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge" width="105">
+  <img alt="Coverage" src="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge" width="100">
   </a>
 </p>

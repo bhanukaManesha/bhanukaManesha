@@ -8,7 +8,7 @@
     <br><br>
     I work part-time as a Machine Learning :robot: developer @ <a href="https://github.com/map711">Map72</a>!
     <br><br>
-    I believe that nothing is particularly hard if you divide it into small jobs :rocket:.
+    I believe that nothing is particularly hard if you divide it into small jobs :rocket:
   </samp>
 </p>
 
@@ -69,8 +69,8 @@ class BhanukaManesha : MonashHonoursStudent {
   <a href="https://img.shields.io/github/followers/bhanukaManesha?label=Follow&style=social">
   <img alt="Coverage" src="https://img.shields.io/github/followers/bhanukaManesha?label=Follow&style=social" width="130">
   </a>
-<!--   &nbsp; &nbsp;
+  &nbsp; &nbsp;
   <a href="http://hits.dwyl.com/bhanukaManesha/bhanukaManesha">
   <img alt="Coverage" src="http://hits.dwyl.com/bhanukaManesha/bhanukaManesha.svg" width="115">
-  </a> -->
+  </a>
 </p>

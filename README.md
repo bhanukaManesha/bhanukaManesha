@@ -44,7 +44,7 @@ class BhanukaManesha : MonashHonoursStudent {
         misc: ["Firebase", "Socket.IO", "ARKit"]
     ]
     
-  var architecture = ["REST Architecture", "Progressive web applications", "Single page applications", "MVVM", "MVC"]
+  var architectures = ["REST Architecture", "Progressive web applications", "Single page applications", "MVVM", "MVC"]
   var funFact = "30% of developers’ work time goes for surfing the source code"
 
 }

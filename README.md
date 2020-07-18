@@ -21,30 +21,43 @@ import MonashUniversity
 
 class BhanukaManesha : MonashHonoursStudent {
 
-  let pronouns = ["He" , "Him"]
-  var code = ["Python", "Javascript", "Typescript", "Swift", "C & C++", "R", "Shell"]
+  let pronouns = ["he" , "him"]
+  var code = ["python", "javascript", "typescript", "swift", "c & c++", "r", "shell"]
   var askMeAbout = ["apple", "machine learning research", "web dev", "ios dev", "tech"]
   
   var technologies = [
         machineLearning : [
-          frameworks: ["TensorFlow", "Keras", "PyTorch", "CoreML"],
+          frameworks: ["tensorFlow", "keras", "pytorch", "coreml"],
           libraries: ["opencv", "pandas", "numpy"]
         ],
-        mobileApp: ["iOS App Dev📱"],
+        mobileApp: ["ios app dev📱"],
         frontEnd: [
-            js: ["Angular", "jQuery", "vanilla"],
+            js: ["angular", "jquery", "vanilla"],
             css: ["materialize", "bootstrap"]
         ],
         backEnd: [
             js: ["node", "express"],
             python: ["django", "flask"]
+            webserver: ["nginx", "apache"]
         ],
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx", "travisci", "gcp", "git", "git actions"],
+        devOps: [
+            collaborate: ["trello", "jira"],
+            build: ["git", "bitbucket", "travisci","docker🐳", ],
+            test: ["selenium", "pytest", "jasmine"],
+            deploy: ["git actions", "npm", "pip"],
+            run: ["aws", "digital ocean", "heroku", "gcp", "kubernetes"]
+           ],
         databases: ["postgresql", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "ARKit"]
+        misc: ["firebase", "cloud flare", "route53", "socket.io", "arkit"]
     ]
     
-  var architectures = ["REST Architecture", "Progressive web applications", "Single page applications", "MVVM", "MVC"]
+  var architectures = [
+        "rest architecture", 
+        "progressive web applications", 
+        "single page applications", 
+        "mvvm architecture", 
+        "mvc architecture"
+       ]
   var funFact = "30% of developers’ work time goes for surfing the source code"
 
 }

@@ -16,8 +16,8 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
+1. ❌ Closed PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
+2. 💪 Opened PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```swift

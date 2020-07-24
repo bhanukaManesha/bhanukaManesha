@@ -1,12 +1,15 @@
-  <samp>
-    I'm Bhanuka Gamage :wave:
+ <p align="center">
+     <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="70%">
     <br><br>
-    I am a computer science honours :mortar_board: student @ Monash University
-    <br><br>
-    I work part-time as a Machine Learning :robot: developer @ <a href="https://github.com/map711">Map72</a>!
-    <br><br>
-    I believe that nothing is particularly hard if you divide it into small jobs :rocket:
-  </samp>
+    <samp>
+      I'm Bhanuka Gamage :wave:
+      <br><br>
+      I am a computer science honours :mortar_board: student @ Monash University
+      <br><br>
+      I work part-time as a Machine Learning :robot: developer @ <a href="https://github.com/map711">Map72</a>!
+      <br><br>
+      I believe that nothing is particularly hard if you divide it into small jobs :rocket:
+    </samp>
 </p>
 
 <br>

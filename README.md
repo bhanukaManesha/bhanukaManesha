@@ -14,6 +14,10 @@
 
 <br>
 
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->

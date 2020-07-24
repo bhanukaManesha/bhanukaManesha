@@ -20,6 +20,8 @@
 
 ### 🚀 Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Bhanuka Manesha for How to undo xattr -w com.dropbox.ignored 1.?](https://stackoverflow.com/questions/60469942/how-to-undo-xattr-w-com-dropbox-ignored-1/60469968#60469968)
+- [How to undo xattr -w com.dropbox.ignored 1.?](https://stackoverflow.com/questions/60469942/how-to-undo-xattr-w-com-dropbox-ignored-1)
 <!-- STACKOVERFLOW:END -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...

@@ -14,11 +14,11 @@
 
 <br>
 
-### :zap: Recent Activity
+### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-# StackOverflow Activity
+### 🚀 StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 

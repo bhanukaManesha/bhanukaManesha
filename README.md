@@ -14,19 +14,14 @@
 
 <br>
 
-### 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### ⚡️ Recent Activity
 <!--START_SECTION:activity-->
 1. ❌ Closed PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
 2. 💪 Opened PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
-### 🚀 Stack Overflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by Bhanuka Manesha for How to undo xattr -w com.dropbox.ignored 1.?](https://stackoverflow.com/questions/60469942/how-to-undo-xattr-w-com-dropbox-ignored-1/60469968#60469968)
-- [How to undo xattr -w com.dropbox.ignored 1.?](https://stackoverflow.com/questions/60469942/how-to-undo-xattr-w-com-dropbox-ignored-1)
-<!-- STACKOVERFLOW:END -->
+
+### 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 

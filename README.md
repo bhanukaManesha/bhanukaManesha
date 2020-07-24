@@ -14,11 +14,6 @@
 
 <br>
 
-### ⚡️ Recent Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
-2. 💪 Opened PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
-
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

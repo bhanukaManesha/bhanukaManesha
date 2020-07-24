@@ -18,6 +18,10 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+# StackOverflow Activity
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```swift

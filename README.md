@@ -18,7 +18,7 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-### 🚀 StackOverflow Activity
+### 🚀 Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
 <!-- STACKOVERFLOW:END -->
 

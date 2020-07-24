@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="70%">
+1. ❌ Closed PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
+2. 💪 Opened PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
   <br><br>
   <samp>
     I'm Bhanuka Gamage :wave:

@@ -108,7 +108,7 @@ class BhanukaManesha : MonashHonoursStudent {
 <hr>
 
 ### 💳 Credit
-⭐️ Template from [anmol098](https://github.com/anmol098/waka-readme-stats)<br>
+⭐️ Template from [anmol098](https://github.com/anmol098)<br>
 
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:octocat:

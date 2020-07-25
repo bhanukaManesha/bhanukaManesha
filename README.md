@@ -21,18 +21,6 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-### ⚡️ Recent Activity
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
-2. 💪 Opened PR [#1](https://github.com//bhanukaManesha/FIT2099-test/pull/1) in [bhanukaManesha/FIT2099-test](https://github.com//bhanukaManesha/FIT2099-test)
-<!--END_SECTION:activity-->
-### 🚀 Stack Overflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Comment by Bhanuka Manesha on how I can work with Mnist dataset in the TensorFlow-datasets?](https://stackoverflow.com/questions/63083306/how-i-can-work-with-mnist-dataset-in-the-tensorflow-datasets)
-- [Answer by Bhanuka Manesha for How to undo xattr -w com.dropbox.ignored 1.?](https://stackoverflow.com/questions/60469942/how-to-undo-xattr-w-com-dropbox-ignored-1/60469968#60469968)
-- [How to undo xattr -w com.dropbox.ignored 1.?](https://stackoverflow.com/questions/60469942/how-to-undo-xattr-w-com-dropbox-ignored-1)
-<!-- STACKOVERFLOW:END -->
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```swift
@@ -96,8 +84,6 @@ class BhanukaManesha : MonashHonoursStudent {
 <hr>
 
 ### 💳 Credit
-⭐️ Recent Activity Block from [jamesgeorge007](https://github.com/jamesgeorge007/github-activity-readme) <br>
-⭐️ Stack Overflow Black from [gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)<br>
 ⭐️ WakaTime Block from [athul](https://github.com/athul/waka-readme)<br>
 
 <p align="center">

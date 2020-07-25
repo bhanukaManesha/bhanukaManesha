@@ -28,6 +28,7 @@ No Activity tracked this Week
 <!--END_SECTION:activity-->
 ### 🚀 Stack Overflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Comment by Bhanuka Manesha on how I can work with Mnist dataset in the TensorFlow-datasets?](https://stackoverflow.com/questions/63083306/how-i-can-work-with-mnist-dataset-in-the-tensorflow-datasets)
 - [Answer by Bhanuka Manesha for How to undo xattr -w com.dropbox.ignored 1.?](https://stackoverflow.com/questions/60469942/how-to-undo-xattr-w-com-dropbox-ignored-1/60469968#60469968)
 - [How to undo xattr -w com.dropbox.ignored 1.?](https://stackoverflow.com/questions/60469942/how-to-undo-xattr-w-com-dropbox-ignored-1)
 <!-- STACKOVERFLOW:END -->

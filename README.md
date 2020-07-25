@@ -15,28 +15,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm a night 🦉** 
-
-```text
-🌞 Morning    466 commits    █████████░░░░░░░░░░░░░░░░   38.2% 
-🌆 Daytime    100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-🌃 Evening    308 commits    ██████░░░░░░░░░░░░░░░░░░░   25.25% 
-🌙 Night      346 commits    ███████░░░░░░░░░░░░░░░░░░   28.36%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⌚︎ Timezone: Asia/Kuala_Lumpur
-
-💬 Languages: 
-
-
-```
-
-
 <!--END_SECTION:waka-->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...

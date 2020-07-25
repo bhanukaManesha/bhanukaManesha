@@ -93,6 +93,12 @@ class BhanukaManesha : MonashHonoursStudent {
   </a>
 </p>
 <hr>
+
+### 💳 Credit
+⭐️ Recent Activity Block from [jamesgeorge007](https://github.com/jamesgeorge007/github-activity-readme) <br>
+⭐️ Stack Overflow Black from [gautamkrishnar](https://github.com/gautamkrishnar/blog-post-workflow)<br>
+⭐️ WakaTime Block from [athul](https://github.com/athul/waka-readme)<br>
+
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:octocat:
   <br><br>
@@ -104,4 +110,5 @@ class BhanukaManesha : MonashHonoursStudent {
   <a href="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge">
   <img alt="Coverage" src="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge" height="25">
   </a>
+</p>
 </p>

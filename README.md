@@ -14,7 +14,6 @@
 
 <br>
 
-### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 **I'm a night 🦉** 
 
@@ -103,7 +102,7 @@ class BhanukaManesha : MonashHonoursStudent {
 <hr>
 
 ### 💳 Credit
-⭐️ WakaTime Block from [athul](https://github.com/athul/waka-readme)<br>
+⭐️ WakaTime Block from [anmol098](https://github.com/anmol098/waka-readme-stats)<br>
 
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:octocat:

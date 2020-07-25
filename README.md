@@ -15,6 +15,34 @@
 <br>
 
 <!--START_SECTION:waka-->
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    355 commits    ███████░░░░░░░░░░░░░░░░░░   28.89% 
+🌆 Daytime    466 commits    █████████░░░░░░░░░░░░░░░░   37.92% 
+🌃 Evening    100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.14% 
+🌙 Night      308 commits    ██████░░░░░░░░░░░░░░░░░░░   25.06%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: Asia/Kuala_Lumpur
+
+💬 Languages: 
+
+
+🔥 Editors: 
+
+
+💻 Operating Systems: 
+
+
+```
+
+
 <!--END_SECTION:waka-->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -80,7 +108,7 @@ class BhanukaManesha : MonashHonoursStudent {
 <hr>
 
 ### 💳 Credit
-⭐️ WakaTime Block from [anmol098](https://github.com/anmol098/waka-readme-stats)<br>
+⭐️ Template from [anmol098](https://github.com/anmol098)<br>
 
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:octocat:

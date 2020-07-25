@@ -15,34 +15,6 @@
 <br>
 
 <!--START_SECTION:waka-->
-**I'm an early 🕊** 
-
-```text
-🌔 Morning    356 commits    ███████░░░░░░░░░░░░░░░░░░   28.78% 
-🌥️ Daytime   473 commits    █████████░░░░░░░░░░░░░░░░   38.24% 
-🌤 Evening    100 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.08% 
-🌒 Night      308 commits    ██████░░░░░░░░░░░░░░░░░░░   24.9%
-
-```
-
-
-📊 **This week I spent my time on** 
-
-```text
-⏱ Timezone: Asia/Kuala_Lumpur
-
-💬 Languages: 
-
-
-🔥 Editors: 
-
-
-🖥 Operating Systems: 
-
-
-```
-
-
 <!--END_SECTION:waka-->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...

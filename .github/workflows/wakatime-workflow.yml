@@ -17,6 +17,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_PROJECTS: "False"
           MORNING_PERSON: "True"
-          SHOW_LINES_OF_CODE: "True"
           SHOW_EDITORS: "False"
           SHOW_OS: "False"

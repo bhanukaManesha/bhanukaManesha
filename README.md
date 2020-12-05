@@ -80,7 +80,7 @@ class BhanukaManesha : MonashHonoursStudent {
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 2,255 Contributions in year 2020
+> 🏆 2,256 Contributions in year 2020
  > 
 > 📦 Used 1.5 MB in GitHub's Storage 
  > 

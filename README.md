@@ -4,9 +4,7 @@
     <samp>
       I'm Bhanuka Gamage :wave:
       <br><br>
-      I am a computer science honours student :mortar_board: @ Monash University
-      <br><br>
-      I work as an iOS engineer :apple: @ <a href="https://github.com/map711">Map72</a>!
+      I work as a Machine Learning Engineer :robot: @ <a href="https://staple.io">Staple</a>!
       <br><br>
       I believe that nothing is particularly hard if you divide it into small jobs :rocket:
     </samp>

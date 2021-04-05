@@ -1,5 +1,5 @@
  <p align="center">
-     <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="70%">
+     <img src="https://magiccopy.xyz/assets/images/hadder.gif" width="50%">
     <br><br>
     <samp>
       I'm Bhanuka Gamage :wave:

@@ -136,8 +136,8 @@ class BhanukaManesha : MonashHonoursStudent {
   <img alt="Coverage" src="https://visitor-badge.laobi.icu/badge?page_id=bhanukaManesha.visitor-badge" height="30">
   </a>
    &nbsp; &nbsp;
-   <a href="https://ko-fi.com/img/githubbutton_sm.svg">
-  <img alt="Ko-Fi" src="https://ko-fi.com/K3K66CA4K">
+   <a href="https://ko-fi.com/K3K66CA4K">
+  <img alt="Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg">
   </a>
 </p>
 </p>

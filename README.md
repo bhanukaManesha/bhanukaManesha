@@ -137,7 +137,7 @@ class BhanukaManesha : MonashHonoursStudent {
   </a>
    &nbsp; &nbsp;
    <a href="https://ko-fi.com/img/githubbutton_sm.svg">
-  <img alt="Ko-Fi" src="https://ko-fi.com/img/githubbutton_sm.svg">
+  <img alt="Ko-Fi" src="https://ko-fi.com/K3K66CA4K">
   </a>
 </p>
 </p>

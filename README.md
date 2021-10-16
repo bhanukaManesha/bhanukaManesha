@@ -62,7 +62,7 @@ class BhanukaManesha : MonashHonoursStudent {
 ```
 
 <p align="center"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to chat with you!</b> 😊</em>
 </p>
 <p align="center">
   <i> Let's connect and chat! :incoming_envelope: </i>
@@ -72,57 +72,6 @@ class BhanukaManesha : MonashHonoursStudent {
   <img alt="Coverage" src="https://img.shields.io/badge/-BhanukaGamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanuka-gamage/" width="170">
   </a>
 </p>
-
-## <img src="https://camo.githubusercontent.com/31f3f66bc1c56636612c1f5fed11d6ff238aeab7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f56674344417a634b767352364f4d307557672f67697068792e676966" width="50"> Developer statistics
-
-<!--START_SECTION:waka-->
-**I'm a night 🦉** 
-
-```text
-🌔  Dawn                699 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
-🌥️  Morning             1102 commits   █████░░░░░░░░░░░░░░░░░░░░   22.83% 
-🌤  Evening             1736 commits   █████████░░░░░░░░░░░░░░░░   35.96% 
-🌒  Night               1291 commits   ██████░░░░░░░░░░░░░░░░░░░   26.74%
-
-```
-📅 **I'm Most Productive on Tuesdays** 
-
-```text
-🙂  Monday              753 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.6% 
-🤓  Tuesday             873 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.08% 
-😅  Wednesday           809 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.76% 
-🤩  Thursday            694 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.37% 
-🚀  Friday              743 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.39% 
-🧠  Saturday            521 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.79% 
-🏖  Sunday              435 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.01%
-
-```
-**🧑🏽‍💻 I mostly code in Python** 
-
-```text
-🥇  Python              48 repos       █████░░░░░░░░░░░░░░░░░░░░   20.87% 
-🥈  HTML                24 repos       ██░░░░░░░░░░░░░░░░░░░░░░░   10.43% 
-🥉  Shell               23 repos       ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-🔰  Jupyter Notebook    20 repos       ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-🔰  JavaScript          20 repos       ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
-🔰  CSS                 14 repos       █░░░░░░░░░░░░░░░░░░░░░░░░   6.09% 
-🔰  Dockerfile          11 repos       █░░░░░░░░░░░░░░░░░░░░░░░░   4.78% 
-🔰  Makefile            9 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   3.91% 
-🔰  C                   8 repos        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
-🔰  Swift               7 repos        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.04%
-
-```
-
-
-
-
-
-<!--END_SECTION:waka-->
-
-<hr>
-
-### 💳 Credit
-⭐️ Template from [anmol098](https://github.com/anmol098)<br>
 
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:octocat:

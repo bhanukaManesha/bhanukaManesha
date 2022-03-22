@@ -4,7 +4,7 @@
     <samp>
       I'm Bhanuka Gamage :wave:
       <br><br>
-      I am a PhD Student at Monash University!
+      I am currently a PhD Student at Monash University!
       <br><br>
       I believe that nothing is particularly hard if you divide it into small jobs :rocket:
     </samp>

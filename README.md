@@ -4,7 +4,7 @@
     <samp>
       I'm Bhanuka Gamage :wave:
       <br><br>
-      I work as a Machine Learning Engineer :robot: @ <a href="https://staple.io">Staple</a>!
+      I am a PhD Student at Monash University!
       <br><br>
       I believe that nothing is particularly hard if you divide it into small jobs :rocket:
     </samp>

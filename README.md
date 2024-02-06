@@ -72,7 +72,9 @@ class BhanukaManesha : MonashHonoursStudent {
   <img alt="Coverage" src="https://img.shields.io/badge/-BhanukaGamage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhanuka-gamage/" width="170">
   </a>
 </p>
-
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/bhanukaManesha?theme=light&font=Noto%20Sans%20Nushu&ext=heatmap">
+</div>
 <p align="center">
   Made with :blue_heart: &nbsp;using GitHub Markdown &nbsp;:octocat:
   <br><br>
